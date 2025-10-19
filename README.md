@@ -20,7 +20,7 @@ A simple and beautiful React Native app to show Redux state management along wit
 
 
 ## Directions to use:-
-* git clone https://github.com/txtasad/redux101.react_native.git
+* git clone https://github.com/TXTVoyager/redux101.react_native.git
 *  in your folder root npm i
 * cd ios  then pod install
 * **installing podfiles is necessary for ios app to work, not required if you want just android 
